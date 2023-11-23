@@ -1,2 +1,3 @@
 .env/
 .DS_Store
+./util/sample_data.tsv
